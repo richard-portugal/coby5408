@@ -1,6 +1,6 @@
 ### COBY 👋
 
-- 🌱 I’m currently learning Lua, HTML, CSS, JS and SQL
+- 🌱 I’m currently learning HTML, CSS, JS, Node.js and SQL
 - 💻 Discord: coby#5408
 
 
