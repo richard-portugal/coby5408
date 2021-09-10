@@ -1,6 +1,6 @@
 ### COBY 👋
 
-- 🌱 I’m currently learning HTML, CSS, JS, Node.js, SQL and Angular.js
+- 🌱 I’m currently learning JavaScript, Node.js, SQL.
 - 💻 Discord: coby#5408
 
 
