@@ -1,6 +1,6 @@
 ### COBY 👋
 
-- 🌱 I’m currently learning JavaScript, Node.js, SQL.
+- 🌱 Growing everyday.
 - 💻 Discord: coby#5408
 
 
@@ -16,8 +16,3 @@
 
 
 
-
----
-### My GitHub stats 🔭
-
-[![Github](https://github-readme-stats.vercel.app/api?username=coby5408&show_icons=true&hide_border=false&theme=default)](https://github.com/anuraghazra/github-readme-stats)
