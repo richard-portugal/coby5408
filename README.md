@@ -1,7 +1,7 @@
 ### COBY 👋
 
 - 🌱 Growing everyday.
-- 💻 Discord: coby#5408
+- 💻 Discord: richȃ̈rd#5408
 
 
 ### Languages and Tools:
