@@ -1,7 +1,7 @@
 ### RICHARD 👋
 
 - Welcome ⚔️,
-- check out all my free work here 💌
+check out all my free work here 💌
 
 
 ### Languages and Tools:
